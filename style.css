@@ -1,13 +1,18 @@
 @import
 url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sans:wght@300&family=Righteous&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
 
 
 body{
     /* background: #bbd2c5; /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #bbd2c5, #536976, #292e49); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #bbd2c5, #536976, #292e49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera
-    12+, Safari 7+ */ */
+    12+, Safari 7+ */ 
 
     background: #1D2B64;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #F8CDDA, #1D2B64);  /* Chrome 10-25, Safari 5.1-6 */
