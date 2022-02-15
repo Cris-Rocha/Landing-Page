@@ -5,8 +5,13 @@ url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sa
     margin: 0;
     padding: 0;
     box-sizing: 0;
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
+body{
+    font-size: 100%;
+}
 
 body{
     /* background: #bbd2c5; /* fallback for old browsers */
